@@ -15,6 +15,7 @@ public class WaitHelper
 	public WaitHelper(WebDriver rdriver)
 	{
 		this.driver=rdriver;
+		System.out.println("Workong on New Feature");
 		
 	}
 	
