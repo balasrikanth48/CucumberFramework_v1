@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: testRunner.TestRun
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.127 s <<< FAILURE! - in testRunner.TestRun
-initializationError(testRunner.TestRun)  Time elapsed: 0.009 s  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.089 s <<< FAILURE! - in testRunner.TestRun
+initializationError(testRunner.TestRun)  Time elapsed: 0.005 s  <<< ERROR!
 java.lang.IllegalArgumentException: Invalid tag expression at 'testRunner.TestRun'
 Caused by: io.cucumber.tagexpressions.TagExpressionException: Tag expression '@sanity ,@regression' could not be parsed because of syntax error: expected operator
 

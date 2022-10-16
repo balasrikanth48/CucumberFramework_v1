@@ -19,10 +19,18 @@ public class WaitHelper
 		
 	}
 	
+	
+
+	
 	public void WaitforElement(WebElement element ,Duration timeOutInSeconds)
 	{
 		WebDriverWait wait=new WebDriverWait(driver, timeOutInSeconds);
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
-	
+	public void WaitforElement(Duration timeOutInSeconds)
+	{
+		WebDriverWait wait=new WebDriverWait(driver, timeOutInSeconds);
+		wait.until(ExpectedConditions.titleIs("Your store. Login"));
+		
+	}
 }
