@@ -44,8 +44,9 @@ public void clickLogin()
 	btnLogin.click();
 }
 
-public void clickLogout()
+public void clickLogout() throws InterruptedException
 {
+	Thread.sleep(3000);
 	btnLogout.click();
 }
 }

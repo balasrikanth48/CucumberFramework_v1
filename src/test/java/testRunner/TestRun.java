@@ -10,13 +10,12 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions
 (
-	features={".//Featurefile//Customer.feature",".//Featurefile//login.feature"}	,
-	monochrome=false ,
+	features={".//Featurefile//Customer.feature"}	,
+	monochrome=true ,
 	glue="setpDefintion" ,
-	dryRun=true ,
-	plugin={"pretty" ,"html:target/cucumber-reportst.html"},
-	tags= "@sanity ,@regression"
-	)
+	dryRun=false,
+	plugin={"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
+	tags="@regression")
 
 public class TestRun
 {

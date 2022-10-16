@@ -52,8 +52,9 @@ public class AddCustomerPage
 		ldriver.findElement(link_customerMenu).click();
 	}
 	
-	public void clickonCustomerMenuItem()
+	public void clickonCustomerMenuItem() throws InterruptedException
 	{
+		Thread.sleep(3000);
 		ldriver.findElement(linkCustomer_menuItem).click();;		
 	}
 	

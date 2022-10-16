@@ -97,7 +97,7 @@ public WebDriver ldriver;
 		{
 			String Emailid=table.findElement(By.xpath("//table[@id='customers-grid']//tbody/tr["+i+"]/td[2]")).getText();
 			
-			if (Emailid.equals("Email"))
+			if (Emailid.equals(Email))
 			{
 				flag=true;
 			}
@@ -112,14 +112,13 @@ public WebDriver ldriver;
 		for (int i = 0; i <getNoOfRows(); i++)
 		{
 			String name=table.findElement(By.xpath("//table[@id='customers-grid']//tbody/tr[\"+i+\"]/td[3]")).getText();
+			System.out.println(name);
 			String[] names=name.split("");
-			if (names[0].equals("Victoria") && names[1].equals("Terces"))
+			if (name.equals(Name))
 			{
 				flag=true;
 				
 			}
-			
-			
 		}
 		return flag;
 		
