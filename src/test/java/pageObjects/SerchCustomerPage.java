@@ -113,7 +113,7 @@ public WebDriver ldriver;
 		{
 			String name=table.findElement(By.xpath("//table[@id='customers-grid']//tbody/tr[\"+i+\"]/td[3]")).getText();
 			System.out.println(name);
-			String[] names=name.split("");
+			//String[] names=name.split("");
 			if (name.equals(Name))
 			{
 				flag=true;

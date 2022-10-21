@@ -12,10 +12,10 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterTest;
-
 import pageObjects.AddCustomerPage;
 import pageObjects.LoginPage;
+import pageObjects.ProductSearchPage;
+import pageObjects.SalesPage;
 import pageObjects.SerchCustomerPage;
 import ultilites.ExtentReportstest;
 import ultilites.WaitHelper;
@@ -27,10 +27,13 @@ public class BaseClass
 	public LoginPage lp;
 	public AddCustomerPage Addcust;
 	public SerchCustomerPage scp;
+	public ProductSearchPage ProductSearch;
+	public SalesPage salespage;
 	public static Properties configprop;
 	public static WaitHelper wait;
 	public static ExtentReportstest reports;
 	public static Logger logger;
+	
 	
 	
 //Random email 

@@ -1,6 +1,5 @@
 package setpDefintion;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
@@ -10,45 +9,42 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
-import com.aventstack.extentreports.gherkin.model.Scenario;
-import com.aventstack.extentreports.model.Media;
+import org.testng.asserts.SoftAssert;
 
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import io.cucumber.shaded.messages.types.Source.MediaType;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import junit.framework.Assert;
 import pageObjects.AddCustomerPage;
 import pageObjects.LoginPage;
+import pageObjects.ProductSearchPage;
+import pageObjects.SalesPage;
 import pageObjects.SerchCustomerPage;
 import ultilites.ExtentReportstest;
 
 @SuppressWarnings("deprecation")
 public class StepsLogin extends BaseClass {
 	// public AddCustomerPage Addcust;
-	
-	
-	
+
 	@Before
 	public void setup() throws IOException {
-		
+
 		configprop = new Properties();
 		FileInputStream configfile = new FileInputStream("config.properties");
 		configprop.load(configfile);
-		logger =LogManager.getLogger(this.getClass());
-		reports=new ExtentReportstest();
+		logger = LogManager.getLogger(this.getClass());
+		reports = new ExtentReportstest();
 
 		WebDriverManager.chromedriver().setup();
 		String br = configprop.getProperty("browser");
 		if (br.equals("chrome")) {
 			logger.info("-----------Chrome Browser is launching---------");
 			driver = new ChromeDriver();
-		} else if (br.equals("firefox")) 
-		{
+			driver.manage().window().maximize();
+		} else if (br.equals("firefox")) {
 			logger.info("------------Firefox is Launching--------------");
 			driver = new FirefoxDriver();
 
@@ -70,7 +66,7 @@ public class StepsLogin extends BaseClass {
 	public void user_opens_url(String url) throws InterruptedException {
 		logger.info("---------Opening Application-----------");
 		driver.get(url);
-		//wait.WaitforElement(Duration.ofSeconds(3000));
+		// wait.WaitforElement(Duration.ofSeconds(3000));
 		Thread.sleep(3000);
 	}
 
@@ -85,7 +81,6 @@ public class StepsLogin extends BaseClass {
 	public void click_login() throws InterruptedException {
 		logger.info("------clicking the logi in button----------");
 		lp.clickLogin();
-		
 
 		Thread.sleep(3000);
 	}
@@ -95,8 +90,9 @@ public class StepsLogin extends BaseClass {
 	public void log_in_page_title_should_be(String Title) {
 		if (driver.getPageSource().contains("Login was unsuccessful")) {
 			logger.info("----- login is pass---");
-			driver.close();
 			Assert.assertTrue(false);
+			SoftAssert asser = new SoftAssert();
+			asser.assertAll();
 
 		} else {
 			Assert.assertEquals(Title, driver.getTitle());
@@ -104,7 +100,7 @@ public class StepsLogin extends BaseClass {
 	}
 
 	@When("clcik on logout")
-	public void clcik_on_logout() throws InterruptedException {	
+	public void clcik_on_logout() throws InterruptedException {
 		lp.clickLogout();
 		Thread.sleep(3000);
 		logger.info("---------clicked the logout button----------");
@@ -132,7 +128,7 @@ public class StepsLogin extends BaseClass {
 
 	@When("user click on Customer menu")
 	public void user_click_on_customer_menu() {
-		
+
 		Addcust.clickOnCustomerMenu();
 		logger.info("clicked the customermenu");
 	}
@@ -171,7 +167,7 @@ public class StepsLogin extends BaseClass {
 		Addcust.setDOB("4/22/1993");
 		Addcust.companyName("Automation");
 		Addcust.setcustomercontext("New user");
-		
+
 		logger.info("Added the details of the new customer");
 	}
 
@@ -186,7 +182,7 @@ public class StepsLogin extends BaseClass {
 	public void user_can_view_confirmation_message(String confirmationmsg) {
 		Assert.assertTrue(driver.findElement(By.tagName("body")).getText()
 				.contains("The new customer has been added successfully"));
-		
+
 		logger.info("Verifying the customer details added");
 	}
 
@@ -208,9 +204,9 @@ public class StepsLogin extends BaseClass {
 	@Then("user Should found email in the Search tabele")
 	public void user_should_found_email_in_the_search_tabele() {
 		boolean status = scp.searchcustomerbyEmail("Balhy@gmail.com");
-		
+
 		Assert.assertEquals(false, status);
-		
+
 		logger.info("verifying the Serch sutomer list");
 	}
 
@@ -230,9 +226,42 @@ public class StepsLogin extends BaseClass {
 	@Then("user should found customer name in the table")
 	public void user_should_found_customer_name_in_the_table() {
 		boolean status = scp.searchByName("Srikanth Panchala");
-		
-		//Assert.assertEquals(false, status);
+
+		Assert.assertEquals(true, status);
 		logger.info("Verifying the customer name in the table");
+	}
+
+	@Then("click on CatlogMenu")
+	public void click_on_catlog_menu() {
+		logger.info("Clicking on CatlogMenu");
+		ProductSearch=new ProductSearchPage(driver);
+		ProductSearch.clickOnCatlogMenu();
+	}
+
+	@Then("click on SearchButton for Product")
+	public void click_on_search_button_for_product() {
+		
+		logger.info("Clicking on Productpage");
+		ProductSearch.productMenu();
+	}
+
+	@When("user enter the Product name {string}")
+	public void user_enter_the_product_name(String ProductName) {
+		logger.info("Entering the Product name");
+		//ProductSearch.enterProductName(ProductName);
+		ProductSearch.clickOnSearchButton();
+	}
+
+	@Then("user should be able to the item in list {string}")
+	public void user_should_be_able_to_the_item_in_list(String name)
+	{
+		logger.info("Validating the table");
+		
+		System.out.println(name);
+		
+		boolean verifySatus=ProductSearch.verifyTable(name);
+		System.out.println(verifySatus);
+		Assert.assertEquals(true, verifySatus);
 	}
 
 	@Then("close the browser")
@@ -240,19 +269,47 @@ public class StepsLogin extends BaseClass {
 		driver.close();
 		logger.info("Closing the browser");
 	}
-	
-	@AfterStep
-	public void addScreenshot(io.cucumber.java.Scenario scenario)
+	@Then("click on salesMenu")
+	public void click_on_sales_menu() {
+		
+		logger.info("Clicking on salesMenu");
+	    salespage=new SalesPage(driver);
+	    salespage.clickSalesMenu();
+	    
+	}
+	@Then("click Ordes")
+	public void click_ordes() {
+		logger.info("Clicking on Orders");
+	   salespage.OpenOrdersMenu();
+	}
+	@Then("Enter billingEmail Adress {string}")
+	public void enter_billing_email_adress(String Email) 
 	{
-		if (scenario.isFailed()) 
-		{
+		logger.info("Entering on the email address");
+	 salespage.EnterBillingEmail(Email);  
+	}
+	@Then("click On SearchonOrderList")
+	public void click_on_searchon_order_list() {
+		logger.info("Showing the list of Orders list");
+	  salespage.clickOnSearchorder();
+	}
+	@Then("user should able to see the list")
+	public void user_should_able_to_see_the_list() {
+		logger.info("Validating the Orders list");
+	   boolean status=salespage.VerifyOrderStatus("Delivered");
+	   Assert.assertEquals(true, status);
+	}
+
+
+	@AfterStep
+	public void addScreenshot(io.cucumber.java.Scenario scenario) {
+		if (scenario.isFailed()) {
 			String screenshotName = scenario.getName().replaceAll(" ", "_");
-			final byte[] screenshot=((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
-			
+			final byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
+
 			scenario.attach(screenshot, "image/jpeg", screenshotName);
 		}
-		
-		
+
 	}
 
 }

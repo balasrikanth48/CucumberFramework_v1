@@ -1,532 +1,439 @@
-14:28:58.551 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-14:29:00.961 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-14:29:01.000 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-14:29:07.544 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-14:29:07.828 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-14:29:23.708 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-14:29:23.717 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-14:29:40.029 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-14:50:43.347 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-14:50:45.539 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-14:50:45.564 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-14:50:50.506 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-14:50:50.820 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-14:51:07.837 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-14:51:07.858 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-14:51:24.161 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-15:28:04.627 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:28:06.286 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:28:06.446 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:28:11.512 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:28:11.729 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:29:30.768 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-15:29:30.786 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-15:29:47.071 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-15:32:28.325 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:32:30.180 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:32:30.205 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:32:36.321 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:32:36.526 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:33:11.656 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-15:33:11.664 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-15:33:27.935 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-15:34:12.580 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:34:14.118 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:34:14.148 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:34:22.107 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:34:22.322 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:34:44.458 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-15:34:44.469 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-15:35:00.727 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-16:31:11.525 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-16:31:13.609 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-16:31:13.640 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-16:31:19.967 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-16:31:20.195 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-16:31:36.808 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-16:31:36.815 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-16:31:53.091 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-19:18:05.307 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-19:18:08.386 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-19:18:08.449 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-19:18:22.333 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-19:18:22.640 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-19:18:38.843 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-19:18:38.860 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-19:18:39.126 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-19:22:39.282 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-19:45:01.683 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-19:45:04.275 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-19:45:04.358 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-19:45:10.626 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-19:45:11.031 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-19:45:27.380 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-19:45:27.398 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-19:45:43.692 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-19:47:07.689 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-19:47:09.684 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-19:47:09.769 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-19:47:14.777 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-19:47:15.069 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-19:47:29.947 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-19:47:29.967 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-19:47:46.249 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-19:52:26.436 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-19:52:28.425 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-19:52:28.500 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-19:52:33.778 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-19:52:33.994 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-19:52:49.155 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-19:52:49.178 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-19:52:49.386 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-20:03:28.140 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-20:03:29.991 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-20:03:30.079 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-20:03:35.393 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-20:03:35.641 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-20:03:51.839 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-20:03:51.848 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-20:04:08.127 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-20:22:41.504 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-20:22:43.590 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-20:22:43.627 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-20:22:49.554 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-20:22:49.758 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-20:23:06.864 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-20:23:06.869 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-20:23:23.087 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-20:25:43.827 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-20:25:45.880 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-20:25:45.925 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-20:25:51.871 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-20:25:52.131 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-20:26:09.340 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-20:26:09.347 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-20:26:25.627 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-20:29:12.685 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-20:29:14.594 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-20:29:14.649 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-20:29:20.979 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-20:29:21.212 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-20:29:39.538 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-20:29:39.553 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-20:29:39.683 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-20:56:40.116 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-20:56:42.035 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-20:56:42.069 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-20:56:47.718 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-20:56:47.958 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-20:57:03.559 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-20:57:03.566 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-20:57:03.659 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-21:00:06.197 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-21:00:07.825 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-21:00:07.861 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-21:00:14.404 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-21:00:14.616 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-21:00:31.319 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-21:00:31.334 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-21:00:31.821 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-21:01:20.149 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-21:01:22.095 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-21:01:22.130 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-21:01:26.672 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-21:01:26.918 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-21:01:41.266 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-21:01:41.274 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-21:01:57.563 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-21:03:54.466 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-21:03:56.288 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-21:03:56.350 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-21:04:01.594 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-21:04:01.820 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-21:04:18.520 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-21:04:18.525 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-21:04:18.627 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-21:08:37.778 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-21:08:39.464 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-21:08:39.509 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-21:08:44.590 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-21:08:44.811 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-21:09:01.617 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-21:09:01.622 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-21:09:17.857 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-21:15:15.246 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-21:15:18.039 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-21:15:18.076 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-21:15:25.333 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-21:15:25.568 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-21:15:35.606 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-21:15:35.690 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-21:15:35.936 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-21:15:36.841 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-21:15:36.843 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-21:15:41.737 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-21:15:41.956 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-21:15:50.308 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-21:15:50.375 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-21:15:50.461 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-21:15:51.980 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-21:15:51.984 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-21:15:57.745 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-21:15:57.936 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-21:16:06.870 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-21:16:06.937 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-21:16:18.629 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-21:16:18.911 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-21:16:19.050 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-21:16:19.118 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-21:16:22.231 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-21:16:25.780 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-21:16:25.783 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-21:16:32.376 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-21:16:32.586 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-21:16:53.593 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
-21:16:53.607 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
-21:16:53.914 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-10:36:37.875 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:36:44.446 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:36:44.695 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:36:50.656 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-10:36:51.072 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-10:37:11.034 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-10:37:11.151 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-10:37:12.497 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-10:37:24.432 [main] INFO  setpDefintion.StepsLogin - clicked on add new customer
-10:37:24.464 [main] INFO  setpDefintion.StepsLogin - Varifying the tittle of the page
-10:37:31.581 [main] INFO  setpDefintion.StepsLogin - Added the details of the new customer
-10:37:33.081 [main] INFO  setpDefintion.StepsLogin - Clicked the save button
-10:37:36.292 [main] INFO  setpDefintion.StepsLogin - Verifying the customer details added
-10:37:52.516 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-10:38:09.363 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:38:11.587 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:38:11.681 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:38:16.078 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-10:38:16.322 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-10:38:24.959 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-10:38:25.051 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-10:38:26.312 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-10:38:26.751 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-10:38:26.830 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-10:38:30.163 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:38:31.660 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:38:31.667 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:38:36.735 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-10:38:37.005 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-10:38:43.066 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-10:38:43.172 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-10:38:44.616 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-10:38:44.868 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-10:38:45.084 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-10:38:45.156 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-10:41:24.823 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:41:26.980 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:41:27.084 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:41:32.342 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-10:41:32.658 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-10:41:41.736 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-10:41:41.839 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-10:41:43.242 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-10:41:43.617 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-10:41:43.741 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-10:41:46.975 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:41:48.377 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:41:48.384 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:41:54.585 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-10:41:54.875 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-10:42:04.732 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-10:42:04.812 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-10:42:06.106 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-10:42:06.278 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-10:42:06.583 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-10:42:06.663 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-10:51:59.794 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:52:02.687 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:52:02.843 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:52:10.366 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-10:52:10.591 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-10:52:20.137 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-10:52:20.260 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-10:52:21.607 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-10:52:21.943 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-10:52:22.006 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-10:52:25.108 [main] INFO  setpDefintion.StepsLogin - verifying the Serch sutomer list
-10:52:25.209 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-10:52:25.256 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:52:26.282 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:52:26.289 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:52:31.625 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-10:52:31.821 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-10:52:42.336 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-10:52:42.433 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-10:59:34.741 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:59:36.894 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:59:36.990 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:59:42.555 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-10:59:42.872 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-10:59:52.672 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-10:59:52.791 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-10:59:52.926 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-10:59:53.913 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-10:59:53.919 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-10:59:59.846 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:00:00.292 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:00:11.391 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:00:11.498 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:01:07.676 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:01:10.335 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:01:10.425 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:01:15.656 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:01:15.950 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:01:26.228 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:01:26.323 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:01:36.535 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:01:36.882 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-11:01:36.950 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:01:40.050 [main] INFO  setpDefintion.StepsLogin - verifying the Serch sutomer list
-11:01:40.167 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-11:01:40.213 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:01:41.226 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:01:41.229 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:01:46.500 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:01:46.707 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:01:55.573 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:01:55.644 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:02:00.822 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:02:00.961 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-11:02:01.097 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-11:02:01.166 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:03:20.958 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:03:24.035 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:03:24.133 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:03:28.986 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:03:29.271 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:03:38.104 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:03:38.215 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:03:42.915 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:03:43.215 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-11:03:43.282 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:03:46.401 [main] INFO  setpDefintion.StepsLogin - verifying the Serch sutomer list
-11:04:02.647 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-11:04:02.688 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:04:04.284 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:04:04.290 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:04:10.385 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:04:10.617 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:04:20.787 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:04:20.887 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:04:32.331 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:04:32.506 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-11:04:32.678 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-11:04:32.737 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:05:41.460 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:05:43.762 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:05:43.852 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:05:49.621 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:05:49.890 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:05:57.272 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:05:57.387 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:06:02.474 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:06:02.672 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-11:06:02.722 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:06:05.845 [main] INFO  setpDefintion.StepsLogin - verifying the Serch sutomer list
-11:06:22.064 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-11:06:22.117 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:06:23.290 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:06:23.296 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:06:31.591 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:06:31.785 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:06:42.124 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:06:42.244 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:06:48.201 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:06:48.380 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-11:06:48.570 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-11:06:48.620 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:10:46.849 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:10:49.460 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:10:49.585 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:10:56.118 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:10:56.420 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:11:07.371 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:11:07.478 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:11:11.955 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:11:12.251 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-11:11:12.354 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:11:15.486 [main] INFO  setpDefintion.StepsLogin - verifying the Serch sutomer list
-11:11:16.299 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-11:11:16.335 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:11:17.741 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:11:17.743 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:11:24.053 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:11:24.250 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:11:34.008 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:11:34.082 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:11:42.552 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:11:42.697 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-11:11:42.867 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-11:11:42.923 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:13:11.402 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:13:13.413 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:13:13.520 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:13:18.568 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:13:18.869 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:13:28.763 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:13:28.903 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:13:34.008 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:13:34.180 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-11:13:34.263 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:13:37.358 [main] INFO  setpDefintion.StepsLogin - verifying the Serch sutomer list
-11:13:37.459 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-11:13:37.528 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:13:38.327 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:13:38.330 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:13:42.785 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:13:42.986 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:13:52.135 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:13:52.240 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:13:56.841 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:13:57.103 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-11:13:57.272 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-11:13:57.338 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:14:00.435 [main] INFO  setpDefintion.StepsLogin - Verifying the customer name in the table
-11:14:16.675 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-11:15:21.933 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:15:23.770 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:15:23.859 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:15:28.681 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:15:28.905 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:15:35.979 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:15:36.080 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:15:41.252 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:15:41.413 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-11:15:41.502 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-11:15:44.594 [main] INFO  setpDefintion.StepsLogin - verifying the Serch sutomer list
-11:15:45.037 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-11:15:45.099 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-11:15:46.139 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-11:15:46.142 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-11:15:51.766 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-11:15:51.969 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-11:16:01.348 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-11:16:01.423 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-11:16:06.947 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-11:16:07.125 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-11:16:07.253 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-11:16:07.306 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:26:57.067 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:27:05.332 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:27:05.422 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:27:13.176 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:27:14.081 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:27:30.902 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-15:27:31.047 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-15:27:36.588 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-15:27:36.896 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-15:27:36.971 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:27:40.169 [main] INFO  setpDefintion.StepsLogin - verifying the Serch sutomer list
-15:27:40.382 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-15:27:40.468 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:27:41.996 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:27:42.001 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:27:47.382 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:27:47.635 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:27:55.628 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-15:27:55.756 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-15:28:01.066 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-15:28:01.203 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-15:28:01.408 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-15:28:01.472 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:28:04.591 [main] INFO  setpDefintion.StepsLogin - Verifying the customer name in the table
-15:28:20.842 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-15:31:14.623 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:31:17.488 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:31:17.660 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:31:22.977 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:31:23.314 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:31:42.404 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-15:31:42.543 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-15:31:51.122 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-15:31:51.374 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-15:31:51.420 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:31:54.978 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:31:57.156 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:31:57.165 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:32:02.507 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:32:03.125 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:32:26.079 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-15:32:26.200 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-15:32:31.354 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-15:32:31.563 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-15:32:31.778 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-15:32:31.849 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:32:34.989 [main] INFO  setpDefintion.StepsLogin - Verifying the customer name in the table
-15:32:35.202 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-15:34:44.983 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:34:47.212 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:34:47.286 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:34:57.979 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:34:58.199 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:35:13.226 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-15:35:13.348 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-15:35:31.181 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-15:35:31.469 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-15:35:31.530 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:35:34.986 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:35:35.896 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:35:35.904 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:35:42.020 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:35:42.211 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:36:17.196 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-15:36:17.477 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-15:36:33.474 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-15:36:33.733 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-15:36:33.972 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-15:36:34.043 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:36:37.197 [main] INFO  setpDefintion.StepsLogin - Verifying the customer name in the table
-15:36:53.455 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-15:48:04.082 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:48:06.205 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:48:06.305 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:48:15.503 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:48:15.737 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:48:26.519 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-15:48:26.603 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-15:48:32.635 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-15:48:32.907 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-15:48:32.957 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:48:36.513 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-15:48:37.795 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-15:48:37.800 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-15:48:43.467 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-15:48:43.743 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-15:48:55.718 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-15:48:55.798 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-15:49:01.483 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-15:49:01.671 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-15:49:01.875 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-15:49:01.939 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-15:49:05.067 [main] INFO  setpDefintion.StepsLogin - Verifying the customer name in the table
-15:49:21.322 [main] INFO  setpDefintion.StepsLogin - Closing the browser
-16:07:19.371 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-16:07:22.070 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-16:07:22.167 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-16:07:28.576 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-16:07:28.902 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-16:07:37.157 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-16:07:37.275 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-16:07:42.768 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-16:07:42.929 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
-16:07:43.009 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-16:07:46.495 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
-16:07:48.172 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
-16:07:48.182 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
-16:07:53.867 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
-16:07:54.183 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
-16:08:03.372 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
-16:08:03.459 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
-16:08:08.514 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
-16:08:08.706 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
-16:08:08.899 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
-16:08:08.965 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
-16:08:12.067 [main] INFO  setpDefintion.StepsLogin - Verifying the customer name in the table
-16:08:28.308 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+15:23:32.433 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+15:23:32.540 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+15:23:38.030 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+15:23:38.225 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+15:23:44.682 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
+15:23:44.759 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
+15:23:49.123 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
+15:23:49.265 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
+15:23:49.392 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
+15:23:49.436 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
+15:50:41.440 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+15:50:43.474 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+15:50:43.534 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+15:50:59.337 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+15:50:59.578 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+15:51:57.568 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+15:52:00.320 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+15:52:00.377 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+15:52:05.460 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+15:52:21.973 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+15:52:24.338 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+15:52:24.389 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+15:52:28.408 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+15:15:00.560 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+15:15:13.131 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+15:15:13.435 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+15:15:29.345 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+15:15:29.979 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+15:17:45.524 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+15:17:47.846 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+15:17:47.935 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+15:17:54.436 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+15:17:54.742 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+16:08:06.806 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+16:08:09.565 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+16:08:09.605 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+16:08:15.763 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+16:08:15.980 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+16:09:41.209 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+16:09:43.210 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+16:09:43.246 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+16:09:50.415 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+16:09:50.652 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+16:11:26.126 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+16:11:28.891 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+16:11:28.935 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+16:11:35.636 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+16:11:35.847 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+16:11:46.690 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+17:26:54.284 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:26:56.572 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:26:56.614 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:27:03.100 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:27:03.316 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:29:23.286 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:29:25.102 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:29:25.144 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:29:33.468 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:29:33.673 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:30:19.308 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:30:22.066 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:30:22.124 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:30:27.939 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:30:28.157 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:32:01.096 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:32:02.939 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:32:02.981 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:32:08.277 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:32:08.483 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:34:27.864 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:34:29.626 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:34:29.665 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:34:35.667 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:34:35.879 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:36:43.520 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:36:46.105 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:36:46.146 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:36:52.304 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:36:52.528 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:39:17.489 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:39:19.399 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:39:19.467 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:39:24.782 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:39:24.988 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:39:51.111 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+17:40:09.007 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:40:10.700 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:40:10.765 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:40:15.732 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:40:15.948 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:40:26.632 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+17:48:17.974 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:48:19.673 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:48:19.740 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:48:25.067 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:48:25.282 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:48:34.638 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
+17:48:34.707 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
+17:48:39.783 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
+17:48:41.370 [main] INFO  setpDefintion.StepsLogin - clicked on add new customer
+17:48:41.409 [main] INFO  setpDefintion.StepsLogin - Varifying the tittle of the page
+17:48:48.317 [main] INFO  setpDefintion.StepsLogin - Added the details of the new customer
+17:48:50.247 [main] INFO  setpDefintion.StepsLogin - Clicked the save button
+17:48:53.404 [main] INFO  setpDefintion.StepsLogin - Verifying the customer details added
+17:48:53.802 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+17:48:53.840 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:48:55.121 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:48:55.128 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:49:00.589 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:49:00.784 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:49:06.574 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
+17:49:06.651 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
+17:49:11.263 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
+17:49:11.409 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
+17:49:11.459 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
+17:49:14.764 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:49:16.054 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:49:16.056 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:49:21.972 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:49:22.184 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:49:30.223 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
+17:49:30.324 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
+17:49:34.853 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
+17:49:34.992 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
+17:49:35.135 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
+17:49:35.187 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
+17:49:38.505 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:49:39.810 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:49:39.812 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:49:44.815 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:49:45.028 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:49:52.444 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+17:49:52.574 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+17:49:53.944 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+17:49:54.238 [main] INFO  setpDefintion.StepsLogin - Validating the table
+17:49:54.966 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:49:57.402 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:49:57.411 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:50:02.275 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:50:02.493 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:50:12.335 [main] INFO  setpDefintion.StepsLogin - Clicking on salesMenu
+17:50:12.436 [main] INFO  setpDefintion.StepsLogin - Clicking on Orders
+17:50:15.571 [main] INFO  setpDefintion.StepsLogin - Entering on the email address
+17:50:15.812 [main] INFO  setpDefintion.StepsLogin - Showing the list of Orders list
+17:50:15.870 [main] INFO  setpDefintion.StepsLogin - Validating the Orders list
+17:50:32.391 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+17:50:32.434 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:50:33.737 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:50:33.742 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:50:38.390 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:50:38.649 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:50:51.746 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
+17:50:51.751 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
+17:51:08.007 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+17:59:18.488 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+17:59:20.165 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+17:59:20.207 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+17:59:26.004 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+17:59:26.235 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+17:59:36.176 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
+17:59:36.280 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
+17:59:41.222 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
+17:59:43.736 [main] INFO  setpDefintion.StepsLogin - clicked on add new customer
+17:59:43.742 [main] INFO  setpDefintion.StepsLogin - Varifying the tittle of the page
+17:59:50.638 [main] INFO  setpDefintion.StepsLogin - Added the details of the new customer
+17:59:52.121 [main] INFO  setpDefintion.StepsLogin - Clicked the save button
+17:59:55.289 [main] INFO  setpDefintion.StepsLogin - Verifying the customer details added
+18:00:11.559 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+18:00:11.623 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:00:12.603 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:00:12.608 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:00:17.493 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:00:17.684 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:00:23.053 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
+18:00:23.143 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
+18:00:27.622 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
+18:00:27.786 [main] INFO  setpDefintion.StepsLogin - Entering the customer email id
+18:00:27.834 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
+18:00:31.116 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:00:32.154 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:00:32.157 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:00:37.686 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:00:37.930 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:00:43.759 [main] INFO  setpDefintion.StepsLogin - -------------Add a customer page is started------
+18:00:43.849 [main] INFO  setpDefintion.StepsLogin - clicked the customermenu
+18:00:48.253 [main] INFO  setpDefintion.StepsLogin - clicked the customermenuItem
+18:00:48.385 [main] INFO  setpDefintion.StepsLogin - Entering the customer first name
+18:00:48.508 [main] INFO  setpDefintion.StepsLogin - Entering the Last name
+18:00:48.553 [main] INFO  setpDefintion.StepsLogin - Clicking the search button
+18:00:51.660 [main] INFO  setpDefintion.StepsLogin - Verifying the customer name in the table
+18:01:07.885 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+18:01:07.937 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:01:08.786 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:01:08.788 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:01:13.834 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:01:14.032 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:01:22.211 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:01:22.294 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:01:23.562 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:01:23.845 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:01:24.576 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:01:25.706 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:01:25.708 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:01:31.744 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:01:31.947 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:01:38.587 [main] INFO  setpDefintion.StepsLogin - Clicking on salesMenu
+18:01:38.683 [main] INFO  setpDefintion.StepsLogin - Clicking on Orders
+18:01:40.215 [main] INFO  setpDefintion.StepsLogin - Entering on the email address
+18:01:40.340 [main] INFO  setpDefintion.StepsLogin - Showing the list of Orders list
+18:01:40.403 [main] INFO  setpDefintion.StepsLogin - Validating the Orders list
+18:01:56.890 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+18:01:56.931 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:01:58.167 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:01:58.171 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:02:03.279 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:02:03.476 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:02:16.793 [main] INFO  setpDefintion.StepsLogin - ---------clicked the logout button----------
+18:02:16.799 [main] INFO  setpDefintion.StepsLogin - ---------------Getting the title of the page-----------
+18:02:33.059 [main] INFO  setpDefintion.StepsLogin - Closing the browser
+18:08:08.143 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:08:09.932 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:08:09.971 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:08:15.557 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:08:15.774 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:08:24.964 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:08:25.091 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:08:26.687 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:09:23.345 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:09:26.785 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:09:26.835 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:09:33.872 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:09:34.089 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:09:44.591 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:09:44.706 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:09:48.316 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:13:17.563 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:13:20.240 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:13:20.282 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:13:25.980 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:13:26.179 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:13:34.116 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:13:34.268 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:13:35.803 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:15:44.404 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:15:47.766 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:15:47.805 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:15:53.821 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:15:54.064 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:16:02.095 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:16:02.222 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:16:03.655 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:17:47.292 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:17:49.715 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:17:49.756 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:17:55.293 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:17:55.498 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:18:02.573 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:18:02.687 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:18:04.056 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:19:07.300 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:19:08.936 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:19:08.979 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:19:13.530 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:19:13.762 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:19:21.542 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:19:21.704 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:19:23.062 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:19:23.311 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:21:37.322 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:21:39.293 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:21:39.355 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:21:44.485 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:21:44.701 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:21:52.705 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:21:52.836 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:21:54.299 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:21:54.547 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:25:17.501 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:25:20.209 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:25:20.278 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:25:26.695 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:25:26.921 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:25:35.489 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:25:35.633 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:25:37.211 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:25:37.437 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:26:26.784 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:26:28.520 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:26:28.557 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:26:34.068 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:26:34.272 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:26:40.140 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:26:40.289 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:26:41.657 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:26:41.900 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:28:14.893 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:28:18.852 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:28:18.922 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:28:23.717 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:28:23.982 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:28:32.527 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:28:32.647 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:28:34.144 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:28:34.402 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:30:02.913 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:30:05.046 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:30:05.087 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:30:09.668 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:30:09.867 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:30:19.157 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:30:19.264 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:30:21.333 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:30:21.554 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:31:29.972 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:31:31.765 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:31:31.843 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:31:37.182 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:31:37.370 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:31:46.075 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:31:46.191 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:31:48.143 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:31:48.368 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:34:40.959 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:34:43.469 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:34:43.513 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:34:53.085 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:34:53.299 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:35:02.310 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:35:02.449 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:35:03.837 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:35:04.065 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:35:40.956 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:35:44.147 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:35:44.190 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:35:50.456 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:35:50.820 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:36:01.062 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:36:01.248 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:36:29.831 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:36:33.272 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:36:33.350 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:36:39.242 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:36:39.458 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:36:46.040 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:36:46.155 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:36:47.793 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:36:48.037 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:38:48.667 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:38:51.206 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:38:51.254 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:38:56.573 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:38:56.792 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:39:05.731 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:39:05.855 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:39:07.545 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:39:07.766 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:41:21.247 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:41:23.383 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:41:23.432 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:41:28.538 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:41:28.733 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:41:36.807 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:41:36.926 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:41:38.394 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:41:38.629 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:42:49.320 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:42:51.536 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:42:51.578 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:42:58.130 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:42:58.364 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:43:17.377 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:43:17.490 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:43:22.754 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:43:22.992 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:46:09.811 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:46:13.625 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:46:13.666 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:46:19.554 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:46:19.795 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:46:32.160 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:46:32.283 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:46:34.030 [main] INFO  setpDefintion.StepsLogin - Entering the Product name
+18:46:34.278 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:49:19.957 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:49:22.108 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:49:22.156 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:49:28.102 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:49:28.432 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:49:36.565 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:49:36.695 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:49:38.772 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:50:19.169 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:50:21.861 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:50:21.905 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:50:28.389 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:50:28.811 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:50:40.330 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:50:40.446 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:50:42.098 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:51:18.995 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:51:22.044 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:51:22.088 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:51:27.672 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:51:27.929 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:51:37.212 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:51:37.354 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:51:38.960 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:53:11.518 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:53:14.093 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:53:14.132 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:53:19.412 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:53:19.629 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:53:36.130 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:53:36.270 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:53:43.036 [main] INFO  setpDefintion.StepsLogin - Validating the table
+18:55:37.879 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+18:55:42.932 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+18:55:42.972 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+18:56:05.024 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+18:56:05.249 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+18:56:22.787 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+18:56:22.901 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+18:56:29.897 [main] INFO  setpDefintion.StepsLogin - Validating the table
+19:02:37.467 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+19:02:40.507 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+19:02:40.557 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+19:02:46.232 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+19:02:46.451 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+19:02:56.103 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+19:02:56.226 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+19:02:57.902 [main] INFO  setpDefintion.StepsLogin - Validating the table
+19:07:55.390 [main] INFO  setpDefintion.StepsLogin - -----------Chrome Browser is launching---------
+19:07:58.797 [main] INFO  setpDefintion.StepsLogin - ---------Launching the Browser----------
+19:07:58.850 [main] INFO  setpDefintion.StepsLogin - ---------Opening Application-----------
+19:08:04.080 [main] INFO  setpDefintion.StepsLogin - ----------Proving the  Credentials-----
+19:08:04.318 [main] INFO  setpDefintion.StepsLogin - ------clicking the logi in button----------
+19:08:13.443 [main] INFO  setpDefintion.StepsLogin - Clicking on CatlogMenu
+19:08:13.544 [main] INFO  setpDefintion.StepsLogin - Clicking on Productpage
+19:08:15.559 [main] INFO  setpDefintion.StepsLogin - Validating the table
